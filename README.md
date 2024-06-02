@@ -8,6 +8,7 @@ Welcome to the NSE Stock iOS App GitHub repository! This project is designed to 
 - **Favorite Stocks**: Keep track of your favorite stocks by adding them to your watchlist.
 - **Detailed Stock Information**: View comprehensive details about each stock, including historical data, company profile, and financial statistics.
 - **User-friendly Interface**: Enjoy a sleek and intuitive user interface for seamless navigation and interaction.
+- **Login and Signup**: Secure access to the app through user authentication.
 
 ### Technologies Used
 - **Swift**: The primary programming language used for iOS app development.
@@ -22,6 +23,9 @@ To run the app locally on your iOS device or simulator, follow these steps:
 2. Open the project in Xcode.
 3. Ensure you have the necessary dependencies installed, such as CocoaPods.
 4. Build and run the project on your desired iOS device or simulator.
+
+### Login and Signup
+To access the features of the app, users must first create an account or log in using their credentials. This ensures a personalized experience and allows users to save their favorite stocks and preferences across sessions.
 
 ### Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
